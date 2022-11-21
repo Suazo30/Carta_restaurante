@@ -1,0 +1,14 @@
+body {
+    background-image: url(/Carta_restaurante/img/fondo_menu.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+p {
+    color: white;
+
+}
+
+#vaca {
+    color: yellow;
+}

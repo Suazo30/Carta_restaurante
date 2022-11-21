@@ -1,0 +1,10 @@
+body {
+    background-image: url(/Carta_restaurante/img/fondo_home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#row {
+    color: white;
+}
