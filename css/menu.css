@@ -2,6 +2,9 @@ body {
     background-image: url(/Carta_restaurante/img/fondo_menu.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
 }
 
 p {
@@ -11,4 +14,11 @@ p {
 
 #vaca {
     color: yellow;
+}
+
+@media (max-width: 576px) {
+    #menu {
+        text-align: center;
+        padding: 15px;
+    }
 }

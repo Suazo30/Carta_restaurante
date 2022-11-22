@@ -2,6 +2,16 @@ body {
     background-image: url(/Carta_restaurante/img/fondo_contacto.webp);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    background-attachment: fixed;
+}
+
+@media (max-width: 576px) {
+    #contacto {
+        text-align: center;
+        padding: 15px;
+    }
 }
 
 #icono {
