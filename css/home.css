@@ -1,5 +1,5 @@
 body {
-    background-image: url(/Carta_restaurante/img/fondo_home.jpg);
+    background-image: url(/Carta_restaurante/img/fondo_home.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -7,6 +7,10 @@ body {
     background-attachment: fixed;
 }
 
+a {
+    text-decoration: none;
+    }
+    
 @media (max-width: 576px) {
     #home {
         text-align: center;
@@ -18,6 +22,46 @@ body {
     color: white;
 }
 
-#row {
+#etc {
+    display: flex;
+    width: 500%;
+    height: 500%;
+    position: relative;
+    top: 100px;
+    left: 40px;
+}
+
+#horario {
     color: white;
+    text-decoration: underline;
+}
+
+#fb {
+    width: 100px;
+    height: 100px;
+}
+
+p {
+    color: aliceblue
+    
+}
+
+#instagram {
+    width: 100px;
+    height: 100px;
+}
+
+#ubicacion {
+    width: 100px;
+    height: 100px;
+}
+
+#reserva {
+    width: 100px;
+    height: 100px;
+}
+
+#whatsapp {
+    width: 100px;
+    height: 100px;
 }
