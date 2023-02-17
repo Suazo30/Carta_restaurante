@@ -6,7 +6,7 @@ En el siguiente proyecto se han puesto en practica los conocimientos que hemos a
 
 Donde el Bootstrap ha sido muy fundamental para el desarrollo del proyecto.
 
-Detalles: La carta de digital consta de 3 paginas (Home, menu y contacto) donde cada una ha sido hipervinculado.
+Detalles: La carta digital consta de 3 paginas (Home, menu y contacto) donde cada una ha sido hipervinculado.
 
 
 
