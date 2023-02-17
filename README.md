@@ -1,6 +1,6 @@
 # Carta_restaurante
 
-El proyecto consiste en realizar una carta digital de en restuarente, donde se han usado el Bootstrap, CSS, HTML y Flex.
+El proyecto consiste en realizar una carta digital de en restuarente, donde se han usado el Bootstrap, CSS, HTML y FLEXBOX.
 
 En el siguiente proyecto se han puesto en practica los conocimientos que hemos adquirido durante la enseñanza impartida por GeeksHups Academy.
 
